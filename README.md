@@ -48,3 +48,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Footer
 
 Enjoyed the game? Feel free to reach out or contribute! Made with ❤️ by Patrick4350.
+
+## Contact
+
+- **Author**: [Patrick4350](https://github.com/Patrick4350)
+- **Email**: pbofah1@gmail.com
