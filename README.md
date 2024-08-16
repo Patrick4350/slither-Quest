@@ -1,6 +1,6 @@
-# Slither-Quest
+# SlitherQuest
 
-Welcome to **Slither-Quest**, a classic snake game with a twist! Navigate your snake to eat food, grow, and beat your high score while avoiding collisions. Enjoy an engaging gameplay experience with sound effects and various game functionalities.
+Welcome to **SlitherQuest**, a classic snake game with a twist! Navigate your snake to eat food, grow, and beat your high score while avoiding collisions. Enjoy an engaging gameplay experience with sound effects and various game functionalities.
 
 ## Features
 
