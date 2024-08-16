@@ -10,6 +10,7 @@ Welcome to **Slither-Quest**, a classic snake game with a twist! Navigate your s
 - **High Score Tracking**: Your high score is saved and displayed.
 - **Sound Effects**: Enjoy sound effects for movement, collisions, and game over.
 - **Game Over**: The game ends when the snake collides with itself or the walls, and your high score is updated.
+- **Loading Screen**: A custom loading animation is displayed when the game is initializing.
 
 ## Gameplay
 
