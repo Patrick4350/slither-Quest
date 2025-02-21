@@ -25,7 +25,7 @@ To play **Slither-Quest** locally:
 
 1. **Clone the Repository**:
     ```bash
-    git clone https://github.com/yourusername/slither-quest.git
+    git clone https://github.com/Patrick4350/slither-quest.git
     ```
 
 2. **Navigate to the Project Directory**:
